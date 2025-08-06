@@ -42,3 +42,5 @@ project-repo/
 !pip install matplotlib
 !pip install seaborn
 ```
+# :nerd_face: References
+https://youtu.be/4x04M8YwOBw
