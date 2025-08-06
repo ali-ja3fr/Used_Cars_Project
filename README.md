@@ -32,7 +32,6 @@ project-repo/
 ├── presentations/ # Supporting files
 │ └── project_used_cars.pptx
 │
-├── requirements.txt # Dependencies
 └── README.md
 ```
 ---
